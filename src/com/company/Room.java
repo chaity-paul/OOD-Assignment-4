@@ -25,7 +25,5 @@ public class Room implements IStructure {
     public String getName() {
         return this.name;
     }
-    public String toString() {
-        return this.name;
-    }
+   
 }
